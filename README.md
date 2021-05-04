@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pdrammeh
 - 👀 I’m interested in Data Science and Health Statistics
-- 🌱 I’m currently learning  Msc in Biostatistics (Fall 2021)
+- 🌱 I’m currently learning   Biostatistics (Fall 2021)
 - 💞️ I’m looking to collaborate on Longitudinal Data.
 - 📫 How to reach me ...
 
