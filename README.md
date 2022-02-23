@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pdrammeh
 - 👀 I’m interested in Data Science and Health Statistics
 - 🌱 I’m currently pursuing a Masters in Biostatistics (Fall 2021) at McGill
-- 💞️ I’m looking for a placement to develop my skills as a Biostatistician
+- 💞️ I’m looking for a placement to develop my skills as a Data Analysist
 - 📫 How to reach me ... pa_sallah @ Twitter
 
 <!---
