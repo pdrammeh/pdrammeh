@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pdrammeh
+- 👋 Hi, I’m Sallah
 - 👀 I’m interested in Data Science and Health Statistics
-- 🌱 I’m currently pursuing a Masters in Biostatistics (Fall 2021) at McGill
-- 💞️ I’m looking for a placement to develop my skills as a Data Analysist
-- 📫 How to reach me ... pa_sallah @ Twitter
+- 🌱 I’m currently pursuing a Masters in Biostatistics at McGill
+- 💞️ I love working out, and hiking
+- 📫 How to reach me ... pa_sallah @ Twitter; https://www.linkedin.com/in/pa-sallah-drammeh-abb289133/ @ LinkedIn
 
 <!---
 pdrammeh/pdrammeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
